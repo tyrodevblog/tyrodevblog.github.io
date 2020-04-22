@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: "Mission: Indépendance financière"
+title: "Mr Panda - Indépendance financière"
 
 # Short description of your site
 description: Ma mission est d'obtenir mon indépendance financière avant ma retraite, et partager avec vous mon périple pour y arriver.
@@ -20,7 +20,7 @@ description: Ma mission est d'obtenir mon indépendance financière avant ma ret
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  A propos: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"

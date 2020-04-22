@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mr Panda - A propos
-#subtitle: Why you'd want to go on a date with me
+title: A propos
+subtitle: Apprenez à connaitre Mr Panda
 ---
 
 Mon nom ? Vous pouvez m'appeler MrPanda 🐼
