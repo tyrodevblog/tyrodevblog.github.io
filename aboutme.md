@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Mr Panda - A propos
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mon nom ? Vous pouvez m'appeler MrPanda 🐼
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Mon histoire
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+J'ai bientôt la trentaine, et je vis dans le sud de la France.
+J'ai créé ce blog pour partager le mode de vie FIRE (Financial Independent Retired Early).
