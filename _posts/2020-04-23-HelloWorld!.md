@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Hello World!
+tags: [finances-personnelles]
 ---
 
 Bonjour et bienvenu sur mon modeste blog !
 
 L'objectif ici sera de parler de finance personnelle, de mes finances personnelles plus exactement et les différents modes d'épargne dont je m'inspire pour atteindre mes objectifs.
-
-<!--more-->
 
 Je vous préviens tout de suite !  
 Je ne suis pas expert en finance, ni un prophète des actions ou un mania de l'immobilier.  
@@ -47,4 +46,4 @@ Je partagerai aussi ce qui me motive et d'où je tire certaines informations, le
 
 J'espère vous revoir bientôt.
 
-Mr Panda.
+Mr Panda 🐼.
