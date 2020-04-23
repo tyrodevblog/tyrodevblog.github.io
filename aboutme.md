@@ -4,12 +4,21 @@ title: A propos
 subtitle: Apprenez à connaitre Mr Panda
 ---
 
-Mon nom ? Vous pouvez m'appeler Mr Panda 🐼
+Bienvenu sur mission-independance-financiere.fr  
+Je m'appelle Mr Panda 🐼 et voici mon histoire.
 
 ### Mon histoire
 
-J'ai bientôt la trentaine, et je vis dans le sud de la France.
+Je ne suis pas un professionelle de la finance,  
+je suis plutôt monsieur tout le monde:
+- Employé en CDI dans une société informatique
+- Propriétaire d'un appartement à crédit
+- Et esclave de mon chat 🐈
 
-### Ma volonté
+### Le blog
 
-Partager ici comment je gère mes finances personnelle, ce qui m'inspire et ce que je tends à obtenir à une échelle long terme.
+La mission de ce blog est de partager mon périple pour atteindre mon indépendance financière.
+
+Pour rappel, l'indépendance financière, c'est de ne plus être dépendant de son emploi pour vivre. L'objectif à atteindre est d'obtenir un revenu passif supérieur à ses dépenses courantes.
+
+J'espère faire écho à d'autres personnes et leur donner envie de prendre en main leurs finances personnelles. Et pourquoi pas, les aider eux aussi à atteindre cette indépendance.
