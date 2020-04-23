@@ -122,7 +122,7 @@ gtag: "UA-164352936-1"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
- fb_comment_id: "709663669838496"
+fb_comment_id: "709663669838496"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
@@ -138,7 +138,7 @@ staticman:
 # To use Utterances comments: (1) fill in repository (make sure the repository is public), (2) Enable Issues in your repository, (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-  repository: #"tyrodevblog/tyrodevblog.github.io"
+  repository: # GitHub username/repository eg. "tyrodevblog/tyrodevblog.github.io"
   issue-term: title   # Mapping between blog posts and GitHub issues
   theme: github-light # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
