@@ -7,6 +7,8 @@ Bonjour et bienvenu sur mon modeste blog !
 
 L'objectif ici sera de parler de finance personnelle, de mes finances personnelles plus exactement et les différents modes d'épargne dont je m'inspire pour atteindre mes objectifs.
 
+<!--more-->
+
 Je vous préviens tout de suite !  
 Je ne suis pas expert en finance, ni un prophète des actions ou un mania de l'immobilier.  
 Vous ne trouverez pas sur ce blog quelqu'un qui vous vend une méthode pour être millionnaire en 1 an. On va parler ici de long terme, c'est-à-dire à minima 10 ans.
