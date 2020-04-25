@@ -20,6 +20,7 @@ description: Ma mission est d'obtenir mon indépendance financière avant ma ret
 
 # List of links in the navigation bar
 navbar-links:
+  Livres: "books"
   A propos: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -61,7 +62,7 @@ footer-link-col: "#c5d5df"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Mr Panda
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
