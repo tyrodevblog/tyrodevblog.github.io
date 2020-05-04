@@ -36,7 +36,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Publié le {{ page.date | date: site.date_format }} par Mr Panda</span>
+		  <span class="post-meta">Publié le {{ page.date | date_to_string: "ordinal", "FR" }} par Mr Panda</span>
 		  {% endif %}
         </div>
       </div>
@@ -61,7 +61,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Publié le {{ page.date | date: site.date_format }} par Mr Panda</span>
+		  <span class="post-meta">Publié le {{ page.date | date_to_string: "ordinal", "FR" }} par Mr Panda</span>
 		  {% endif %}
         </div>
       </div>

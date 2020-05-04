@@ -19,7 +19,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Publié le {{ post.date | date: site.date_format }}
+      Publié le {{ post.date | date_to_string: "ordinal", "FR" }}
     </p>
 
     <div class="post-entry-container">
