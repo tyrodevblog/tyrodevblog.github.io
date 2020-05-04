@@ -1,4 +1,5 @@
 ---
+lang: fr
 layout: post
 title: "En route vers l'indépendance financière: Épisode 1"
 subtitle: Épargne de précaution

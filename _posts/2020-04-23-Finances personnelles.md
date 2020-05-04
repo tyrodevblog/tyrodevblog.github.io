@@ -1,4 +1,5 @@
 ---
+lang: fr
 layout: post
 title: Finances personnelles
 subtitle: avec Mr Panda
