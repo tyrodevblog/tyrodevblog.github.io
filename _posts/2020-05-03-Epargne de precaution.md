@@ -3,7 +3,7 @@ lang: fr
 layout: post
 title: "En route vers l'indépendance financière: Épisode 1"
 subtitle: Épargne de précaution
-tags: [liberté-financière]
+tags: [liberté-financière, épargne-précaution]
 ---
 
 Premier (vrai) article de ce blog, j'ai dans l'idée d'écrire une série de posts "En route vers l'indépendance financière". L'objectif sera d'avoir un fil rouge pour obtenir cette liberté financière tant recherchée.
