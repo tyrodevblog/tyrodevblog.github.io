@@ -73,10 +73,13 @@ Pour ma part j'investis actuellement sur 2 assurances vie multisupports:
 
 Mes objectifs sont différents avec ces 2 assurances vies.
 
-Je considère que l'assurance vie ouverte chez Linxea à un horizon d'invesstissement beaucoup plus long que celle ouvert chez Yomoni.  
-Le fait d'investir sur un support immobilier (SCPI) avec des frais d'entrée assez élévé (frais du à la SCPI et non a Linxea) fait qu'il va déjà falloir du temps pour rentabiliser l'investissement avant même qu'il rapport de l'argent.
+Je considère que l'assurance vie ouverte chez Linxea à un horizon d'investissement beaucoup plus long que celle ouvert chez Yomoni.  
+Le fait d'investir sur un support immobilier (SCPI) avec des frais d'entrée assez élevé (frais du à la SCPI et non a Linxea) fait qu'il va déjà falloir du temps pour rentabiliser l'investissement avant même que celui-ci rapport de l'argent.
 
-De plus ça me permet en cas de gros projet de pouvoir cloturer l'assurance vie chez Yomoni, comme l'achat d'une nouvelle résidence principale. Je ne bénéficiera pas de la fiscalité avantageuse de l'AV mais je garderais mon autre assurance vie jusqu'a ses 8 ans, tout en gagnant plus que si je l'avais mis sur un livret A ou LDDS.
+De plus ça me permet en cas de gros projet de pouvoir cloturer l'assurance vie chez Yomoni, comme l'achat d'une nouvelle résidence principale. e ne bénéficierai pas de la fiscalité avantageuse de l'AV mais je garderais mon autre assurance vie jusqu'a ses 8 ans, tout en gagnant plus que si je l'avais mis sur un livret A ou LDDS.
 
 Les 2 assurances vie représente ~30% de mon actif net.
 
+J'espère vous revoir bientôt.
+
+Mr Panda 🐼.
