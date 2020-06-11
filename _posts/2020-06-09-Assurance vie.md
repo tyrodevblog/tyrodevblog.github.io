@@ -1,8 +1,8 @@
 ---
 lang: fr
 layout: post
-title: "En route vers l'indépendance financière: Épisode 2"
-subtitle: "Assurance Vie"
+title: "Assurance Vie"
+subtitle: "En route vers l'indépendance financière: Épisode 2"
 tags: [liberté-financière, investissement-long-terme]
 ---
 

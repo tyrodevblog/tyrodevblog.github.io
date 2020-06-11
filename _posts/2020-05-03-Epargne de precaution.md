@@ -1,8 +1,8 @@
 ---
 lang: fr
 layout: post
-title: "En route vers l'indépendance financière: Épisode 1"
-subtitle: Épargne de précaution
+title: "Épargne de précaution"
+subtitle: "En route vers l'indépendance financière: Épisode 1"
 tags: [liberté-financière, épargne-précaution]
 ---
 
